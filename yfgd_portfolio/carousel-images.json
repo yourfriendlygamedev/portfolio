@@ -1,0 +1,15 @@
+{
+  "carousel1": [
+    "images/Screenshots/KitbashLibrary.png",
+    "images/Screenshots/Exveritas.png",
+    "images/Screenshots/Despair.png"
+  ],
+  "carousel2": [
+    "images/Carousel/TechArt/img01.png",
+    "images/Carousel/TechArt/img02.png",
+    "images/Carousel/TechArt/img03.png",
+    "images/Carousel/TechArt/img04.png",
+    "images/Carousel/TechArt/img05.png",
+    "images/Carousel/TechArt/img06.png"
+  ]
+}
